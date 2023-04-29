@@ -11,7 +11,7 @@
 ---
 
 * Most of my projects are on GitLab: https://gitlab.com/rogerclotet
-* [Twitter](https://twitter.com/clotet_dev)
+* [Mastodon](https://mastodon.social/@clotet)
 * [LinkedIn](https://linkedin.com/in/rogerclotet)
 * [Email](mailto:roger@clotet.dev)
 
